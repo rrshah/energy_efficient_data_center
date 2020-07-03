@@ -1,4 +1,4 @@
-# Foobar
+# Setting up GPU Server
 
 This Readme is for instructions to setup the GPU server to predict power for Medusa and Kraken
 
